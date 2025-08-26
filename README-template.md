@@ -36,4 +36,4 @@ Users should be able to:
 ## Author
 
 - Website - [News Homepage](https://BarbareUgrekhelidze.github.io/News-homepage/)
-- Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
