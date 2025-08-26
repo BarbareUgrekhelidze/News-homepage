@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage solution
 
-This is a solution to the [News homepage challenge on Frontend Mentor](https://github.com/barbare999/News-homepage.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [News homepage challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/News-homepage.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/News-homepage.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/News-homepage/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/News-homepage.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/News-homepage/)
 
 ## My process
 
@@ -35,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [News Homepage](https://barbare999.github.io/News-homepage/)
+- Website - [News Homepage](https://BarbareUgrekhelidze.github.io/News-homepage/)
 - Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
